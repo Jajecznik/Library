@@ -1,6 +1,6 @@
 # Library
 
-This project involves creating a library application that allows users to store and manage a collection of books.
+This project involves creating a library application that allows users to add, store and manage a collection of books.
 
 ## Getting Started
 Just open the `index.html` file in a web browser.
