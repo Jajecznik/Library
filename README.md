@@ -1,6 +1,6 @@
 # Library
 
-This project involves creating a sign-up form for an imaginary service. The goal is to implement the design provided and create a visually appealing and functional form.
+This project involves creating a library application that allows users to store and manage a collection of books.
 
 ## Getting Started
 Just open the `index.html` file in a web browser.
